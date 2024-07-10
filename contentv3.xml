@@ -206,7 +206,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="336"></int>
+                  <int value="361"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -220,7 +220,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="20_139_2.1"></unicode>
+                <unicode value="20_139_2.2"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -231,7 +231,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="jjjjjh25ene2024hey49277.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\jjjjjh25ene2024hey49277.jpg"></string>
+                  <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\jjjjjh25ene2024hey49277.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="4c8fe6e54e0e60495ddd9764b6a123d0"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -260,7 +260,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="2"></int>
+           <int value="3"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -565,7 +565,7 @@
      <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
      <int value="2"></int>
      <string role="key" value="exportType"></string>
-     <string value="singlepage"></string>
+     <string value="website"></string>
      <string role="key" value="last_full_node_path"></string>
      <string value="exe-node:Elementos%20b%C3%A1sicos%20el%C3%A9ctricos%20y%20electr%C3%B3nicos"></string>
      <string role="key" value="parent"></string>
@@ -687,7 +687,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="323"></int>
+                     <int value="348"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -701,7 +701,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_129_2.6"></unicode>
+                   <unicode value="1_129_2.7"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="13">
                     <dictionary>
@@ -712,7 +712,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Atomo_Modelo_11.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\Atomo_Modelo_11.jpg"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\Atomo_Modelo_11.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="21976e658fd3e4923240d5229edaaa3c"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -741,7 +741,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="7"></int>
+              <int value="8"></int>
               <string role="key" value="parentNode"></string>
               <reference key="12"></reference>
              </dictionary>
@@ -907,7 +907,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="322"></int>
+                     <int value="347"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -921,7 +921,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="2_130_2.15"></unicode>
+                   <unicode value="2_130_2.18"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="16">
                     <dictionary>
@@ -932,7 +932,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="amperimetro11.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\amperimetro11.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\amperimetro11.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="e2d92708bb8324f061d8a063b4b44b4b"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -959,7 +959,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="341"></int>
+                     <int value="366"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -973,7 +973,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="2_130_2.16"></unicode>
+                   <unicode value="2_130_2.19"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="17">
                     <dictionary>
@@ -984,7 +984,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="ohmetro11.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\ohmetro11.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\ohmetro11.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="549e8edcf9ec680d79ad7fd2b2ce8dd6"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1011,7 +1011,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="346"></int>
+                     <int value="371"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1025,7 +1025,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="2_130_2.17"></unicode>
+                   <unicode value="2_130_2.20"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="18">
                     <dictionary>
@@ -1036,7 +1036,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="voltimetro11.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\voltimetro11.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\voltimetro11.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="1fd8746e5d75ac5f05ab711cef108398"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1065,7 +1065,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="18"></int>
+              <int value="21"></int>
               <string role="key" value="parentNode"></string>
               <reference key="12"></reference>
              </dictionary>
@@ -1199,7 +1199,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="338"></int>
+                     <int value="363"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1213,7 +1213,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="3_128_2.7"></unicode>
+                   <unicode value="3_128_2.8"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="21">
                     <dictionary>
@@ -1224,7 +1224,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="ley_de_ohm11.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\ley_de_ohm11.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\ley_de_ohm11.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="0b3f2b6be56a09bdddc40fa4aebae36e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1253,7 +1253,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="8"></int>
+              <int value="9"></int>
               <string role="key" value="parentNode"></string>
               <reference key="12"></reference>
              </dictionary>
@@ -1520,7 +1520,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="342"></int>
+                     <int value="367"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1534,7 +1534,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="5_130_2.10"></unicode>
+                   <unicode value="5_130_2.12"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="26">
                     <dictionary>
@@ -1545,7 +1545,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="OndaSenoidal.svg.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\OndaSenoidal.svg.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\OndaSenoidal.svg.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="267a9ba623fe75dab55266be4d242f59"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1572,7 +1572,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="345"></int>
+                     <int value="370"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1586,7 +1586,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="5_130_2.11"></unicode>
+                   <unicode value="5_130_2.13"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="27">
                     <dictionary>
@@ -1597,7 +1597,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Tension_corriente_continua.svg.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\Tension_corriente_continua.svg.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\Tension_corriente_continua.svg.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="55deadf16fe6a684bbfd7ff94dd25170"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1626,7 +1626,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="12"></int>
+              <int value="14"></int>
               <string role="key" value="parentNode"></string>
               <reference key="12"></reference>
              </dictionary>
@@ -1820,7 +1820,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="324"></int>
+                     <int value="349"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1834,7 +1834,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="6_128_2.32"></unicode>
+                   <unicode value="6_128_2.43"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="30">
                     <dictionary>
@@ -1845,7 +1845,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="bateria.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\bateria.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\bateria.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="596c27a32e580df238d7a8282afb9b9e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1872,7 +1872,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="325"></int>
+                     <int value="350"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1886,7 +1886,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="6_128_2.33"></unicode>
+                   <unicode value="6_128_2.44"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="31">
                     <dictionary>
@@ -1897,7 +1897,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="bombilla11.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\bombilla11.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\bombilla11.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="9269ab1ac165fde186602a24d4740ca2"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1924,7 +1924,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="326"></int>
+                     <int value="351"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1938,7 +1938,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="6_128_2.34"></unicode>
+                   <unicode value="6_128_2.45"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="32">
                     <dictionary>
@@ -1949,7 +1949,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="circuitos_en_paralelo.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\circuitos_en_paralelo.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\circuitos_en_paralelo.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="78fe5c9f918343b930d9edcb8c3b0dc7"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1976,7 +1976,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="327"></int>
+                     <int value="352"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1990,7 +1990,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="6_128_2.35"></unicode>
+                   <unicode value="6_128_2.46"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="33">
                     <dictionary>
@@ -2001,7 +2001,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="circuitos_en_serie.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\circuitos_en_serie.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\circuitos_en_serie.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="17dea8e6ecd8e377a5a283e13281cd41"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2028,7 +2028,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="329"></int>
+                     <int value="354"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2042,7 +2042,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="6_128_2.36"></unicode>
+                   <unicode value="6_128_2.47"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="34">
                     <dictionary>
@@ -2053,7 +2053,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="condensador.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\condensador.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\condensador.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="848e0a0b6b1a84ae143f7004a582d3d8"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2080,7 +2080,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="330"></int>
+                     <int value="355"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2094,7 +2094,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="6_128_2.37"></unicode>
+                   <unicode value="6_128_2.48"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="35">
                     <dictionary>
@@ -2105,7 +2105,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="diodo11.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\diodo11.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\diodo11.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="180c29e14a7ac4243c26ae54f5be8a9a"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2132,7 +2132,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="331"></int>
+                     <int value="356"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2146,7 +2146,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="6_128_2.38"></unicode>
+                   <unicode value="6_128_2.49"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="36">
                     <dictionary>
@@ -2157,7 +2157,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="diodoLED11.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\diodoLED11.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\diodoLED11.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="65ba7429bdf71085d498fd64f7a21996"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2184,7 +2184,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="332"></int>
+                     <int value="357"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2198,7 +2198,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="6_128_2.39"></unicode>
+                   <unicode value="6_128_2.50"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="37">
                     <dictionary>
@@ -2209,7 +2209,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="interruptor_abierto.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\interruptor_abierto.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\interruptor_abierto.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="cda46d0a36cab7072e188acca2cbdd81"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2236,7 +2236,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="333"></int>
+                     <int value="358"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2250,7 +2250,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="6_128_2.40"></unicode>
+                   <unicode value="6_128_2.51"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="38">
                     <dictionary>
@@ -2261,7 +2261,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="interruptor_cerrado.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\interruptor_cerrado.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\interruptor_cerrado.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="dc7e1fd25ebdf1819dccc00f908d218f"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2288,7 +2288,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="343"></int>
+                     <int value="368"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2302,7 +2302,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="6_128_2.41"></unicode>
+                   <unicode value="6_128_2.52"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="39">
                     <dictionary>
@@ -2313,7 +2313,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="pila_6.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\pila_6.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\pila_6.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="5c00e146d5a5633027778781942a92b2"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2340,7 +2340,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="344"></int>
+                     <int value="369"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2354,7 +2354,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="6_128_2.42"></unicode>
+                   <unicode value="6_128_2.53"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="40">
                     <dictionary>
@@ -2365,7 +2365,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="resistencia_electrica.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\resistencia_electrica.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\resistencia_electrica.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="a440195e9ce5c4bc9467ece3d67d2b62"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2394,7 +2394,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="43"></int>
+              <int value="54"></int>
               <string role="key" value="parentNode"></string>
               <reference key="12"></reference>
              </dictionary>
@@ -2536,7 +2536,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="328"></int>
+                     <int value="353"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2550,7 +2550,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="7_128_2.2"></unicode>
+                   <unicode value="7_128_2.3"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="43">
                     <dictionary>
@@ -2561,7 +2561,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="codigos_de_colores_en_resistencias.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\codigos_de_colores_en_resistencias.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\codigos_de_colores_en_resistencias.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="44d4238abb3ff51eb2293bf35df0211f"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2590,7 +2590,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="3"></int>
+              <int value="4"></int>
               <string role="key" value="parentNode"></string>
               <reference key="12"></reference>
              </dictionary>
@@ -2768,7 +2768,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Elementos%20b%C3%A1sicos%20el%C3%A9ctricos%20y%20electr%C3%B3nicos:Contenido%20de%20elementos%20b%C3%A1sicos%20el%C3%A9ctricos%20y%20electr%C3%B3nicos"></string>
         <string role="key" value="parent"></string>
@@ -2883,7 +2883,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="339"></int>
+                     <int value="364"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2897,7 +2897,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="9_128_2.1"></unicode>
+                   <unicode value="9_128_2.2"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="49">
                     <dictionary>
@@ -2908,7 +2908,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="mapa_conceptual11.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\mapa_conceptual11.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\mapa_conceptual11.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="50130cd9274ab00434c5c07026024cdc"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2937,7 +2937,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="2"></int>
+              <int value="3"></int>
               <string role="key" value="parentNode"></string>
               <reference key="48"></reference>
              </dictionary>
@@ -3034,7 +3034,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="Resumen de elementos basicos electricos y electronicos - imprimible.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\Resumen de elementos basicos electricos y electronicos - imprimible.pdf"></string>
+                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\Resumen de elementos basicos electricos y electronicos - imprimible.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="76bde99916f8e0d46121633d31e0a40c"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3092,7 +3092,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="Resumen de elementos basicos electricos y electronicos - editable.docx"></string>
                 <string role="key" value="_userName"></string>
-                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\Resumen de elementos basicos electricos y electronicos - editable.docx"></string>
+                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\Resumen de elementos basicos electricos y electronicos - editable.docx"></string>
                 <string role="key" value="checksum"></string>
                 <string value="c62b2c532f12bf0547051eee3c6f5e4a"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3271,7 +3271,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="Repaso de elementos basicos electricos y electronicos - imprimible.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\Repaso de elementos basicos electricos y electronicos - imprimible.pdf"></string>
+                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\Repaso de elementos basicos electricos y electronicos - imprimible.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="6483cf99a3b5df71fcafee699cccc5d2"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3329,7 +3329,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="Repaso de elementos basicos electricos y electronicos - editable.docx"></string>
                 <string role="key" value="_userName"></string>
-                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\Repaso de elementos basicos electricos y electronicos - editable.docx"></string>
+                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\Repaso de elementos basicos electricos y electronicos - editable.docx"></string>
                 <string role="key" value="checksum"></string>
                 <string value="23ef5032383caea79b09a46cb3d1f3eb"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3452,7 +3452,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Elementos%20b%C3%A1sicos%20el%C3%A9ctricos%20y%20electr%C3%B3nicos:%C2%BFD%C3%B3nde%20encaja%20lo%20que%20hemos%20aprendido%3F"></string>
         <string role="key" value="parent"></string>
@@ -3534,7 +3534,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="domino de circuitos - imprimible.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\domino de circuitos - imprimible.pdf"></string>
+                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\domino de circuitos - imprimible.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="efaa10d1e87fd34d2b4720e20546861f"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3712,7 +3712,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="domino de magnitudes electricas - imprimible.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\domino de magnitudes electricas - imprimible.pdf"></string>
+                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\domino de magnitudes electricas - imprimible.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="d01fa9b5bf1c94cd680a92e2593e6070"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3890,7 +3890,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="Los pinguinos y los tipos de materiales atendiendo a la conductividad electrica - imprimible .pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\Los pinguinos y los tipos de materiales atendiendo a la conductividad electrica - imprimible .pdf"></string>
+                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\Los pinguinos y los tipos de materiales atendiendo a la conductividad electrica - imprimible .pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="3ec1228e3f13808a35ccc79f3a9d9450"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4068,7 +4068,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="Kahoot- sobre elementos basicos electricos y electronicos.xlsx"></string>
                 <string role="key" value="_userName"></string>
-                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\Kahoot- sobre elementos basicos electricos y electronicos.xlsx"></string>
+                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\Kahoot- sobre elementos basicos electricos y electronicos.xlsx"></string>
                 <string role="key" value="checksum"></string>
                 <string value="109569f7622014bf049c94afa835f54d"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4127,7 +4127,7 @@
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="337"></int>
+                    <int value="362"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -4141,7 +4141,7 @@
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="17_83.1"></unicode>
+                  <unicode value="17_83.2"></unicode>
                   <string role="key" value="_imageResource"></string>
                   <instance class="exe.engine.resource.Resource" reference="79">
                    <dictionary>
@@ -4152,7 +4152,7 @@
                     <string role="key" value="_storageName"></string>
                     <string value="kahoot.jpeg"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\kahoot.jpeg"></string>
+                    <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\kahoot.jpeg"></string>
                     <string role="key" value="checksum"></string>
                     <string value="721f5640dff430362f913bbea9e3c7bb"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4181,7 +4181,7 @@
              <string role="key" value="intlinks_to_anchors"></string>
              <dictionary></dictionary>
              <string role="key" value="nextImageId"></string>
-             <int value="2"></int>
+             <int value="3"></int>
              <string role="key" value="parentNode"></string>
              <reference key="65"></reference>
             </dictionary>
@@ -4302,7 +4302,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="story cubes elementos basicos electricos y electronicos - imprimible.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\story cubes elementos basicos electricos y electronicos - imprimible.pdf"></string>
+                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\story cubes elementos basicos electricos y electronicos - imprimible.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="15cdbb7995b97fe72c7316eacb8c3a42"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4480,7 +4480,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="Sopa de letras de elementos basicos electricos y electronicos - imprimible.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\Sopa de letras de elementos basicos electricos y electronicos - imprimible.pdf"></string>
+                <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\Sopa de letras de elementos basicos electricos y electronicos - imprimible.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="25fd8cb6d1b164cef8d7ebc4a2c9071c"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4603,7 +4603,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Elementos%20b%C3%A1sicos%20el%C3%A9ctricos%20y%20electr%C3%B3nicos:Ludificaci%C3%B3n%20-%20Gamificaci%C3%B3n%20sobre%20elementos%20b%C3%A1sicos%20el%C3%A9ctricos%20y%20electr%C3%B3nicos"></string>
         <string role="key" value="parent"></string>
@@ -4723,7 +4723,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="340"></int>
+                     <int value="365"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4737,7 +4737,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="23_142_2.1"></unicode>
+                   <unicode value="23_142_2.2"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="91">
                     <dictionary>
@@ -4748,7 +4748,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="montajje_y_manntenimientoFPB2018.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\montajje_y_manntenimientoFPB2018.jpg"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\montajje_y_manntenimientoFPB2018.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="a3675d867f0e626ac6643d5e34350ef6"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4777,7 +4777,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="2"></int>
+              <int value="3"></int>
               <string role="key" value="parentNode"></string>
               <reference key="90"></reference>
              </dictionary>
@@ -4913,7 +4913,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="334"></int>
+                     <int value="359"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4927,7 +4927,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="24_143_2.2"></unicode>
+                   <unicode value="24_143_2.4"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="94">
                     <dictionary>
@@ -4938,7 +4938,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="jjCaptura_de_pantalla_de_2023-11-24_15-45-12.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\jjCaptura_de_pantalla_de_2023-11-24_15-45-12.png"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\jjCaptura_de_pantalla_de_2023-11-24_15-45-12.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="03cc88934dfeb5a405ed89d4d699518b"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4965,7 +4965,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="335"></int>
+                     <int value="360"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4979,7 +4979,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="24_143_2.3"></unicode>
+                   <unicode value="24_143_2.5"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="95">
                     <dictionary>
@@ -4990,7 +4990,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="jjj32582.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpfp9nyf\\jjj32582.jpg"></string>
+                     <string value="c:\\users\\equipo~1\\appdata\\local\\temp\\tmpddkyio\\jjj32582.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d6320a174457540be163181a79fd4d35"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5019,7 +5019,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="4"></int>
+              <int value="6"></int>
               <string role="key" value="parentNode"></string>
               <reference key="90"></reference>
              </dictionary>
@@ -5209,7 +5209,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Elementos%20b%C3%A1sicos%20el%C3%A9ctricos%20y%20electr%C3%B3nicos:Cr%C3%A9ditos"></string>
         <string role="key" value="parent"></string>
